@@ -17,7 +17,7 @@
         font-family="Georgia, 'Times New Roman', serif"
         font-size="40" font-weight="400" letter-spacing="1"
         fill="url(#nameGradient)">
-    Hoang Son (Sown) Vu
+   Vu Hoang Son(Sown)
     <animate attributeName="opacity" values="0.75;1;0.75" dur="5s" repeatCount="indefinite"/>
   </text>
 
