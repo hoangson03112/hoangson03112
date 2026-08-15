@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" src="header.svg" alt="Hoang Son" />
+  <img width="700" src="header.svg" alt="Hoang Son (Sown) Vu" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hoangson03112/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hoang-sown/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Hanoi%2C_Vietnam-orange?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=hoangson03112&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </p>
@@ -73,11 +73,11 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoangson03112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangson03112&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sooty-chi-24.vercel.app/api/top-langs/?username=hoangson03112&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hoangson03112&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=hoangson03112&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -98,7 +98,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/hoang-sown"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hoang-sown/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Open to interesting fullstack, Web3, and performance-engineering opportunities.</i></p>
