@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" src="assets/header.svg" alt="Hoang Son (Sown) Vu" />
+  <img width="700" src="header.svg" alt="Vu Hoang Son(Sown)" />
 </p>
 
 <p align="center">
