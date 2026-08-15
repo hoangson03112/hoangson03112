@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" src="header.svg" alt="Vu Hoang Son(Sown)" />
+  <img width="700" src="assets/header.svg" alt="Hoang Son (Sown) Vu" />
 </p>
 
 <p align="center">
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hoang-sown/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hoangson03112/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Hanoi%2C_Vietnam-orange?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=hoang-sown&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=hoangson03112&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
@@ -72,25 +72,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoang-sown&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoang-sown&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoangson03112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangson03112&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hoang-sown&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hoangson03112&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hoang-sown&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hoangson03112&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoang-sown&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangson03112&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <!-- 🐍 Contribution snake — cần thêm 1 GitHub Action nhỏ để tự sinh, xem hướng dẫn phía dưới -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hoang-sown/hoang-sown/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/hoangson03112/hoangson03112/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -98,7 +98,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hoang-sown/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hoangson03112/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Open to interesting fullstack, Web3, and performance-engineering opportunities.</i></p>
